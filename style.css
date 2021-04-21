@@ -1,0 +1,37 @@
+/*basic css*/
+
+*{margin: 0; padding: 0;}
+
+
+body{background-color: darkkhaki;}
+
+.container{width: 80%; margin: 0 auto;}
+
+.flex{position: relative; display: flex; align-items: center; justify-content: space-between;}
+
+
+/*navbar css*/
+
+
+.navbar{width: 100%; padding: 10px 0; background-color: floralwhite; box-shadow: rgba(255, 255, 255, 0.12);}
+
+.navbar-right ul{list-style-type: none;}
+
+.navbar-right li{display: inline;}
+
+.navbar-right a{text-decoration: none; font-weight: 600; font-size: 18px; padding: 20px; 15px;}
+
+
+.banner-area h1{font-family: 'Pacifico', cursive; padding: 50px; font-size: 50px;}
+
+.banner-area p{    font-family: 'Pacifico', cursive;
+
+    font-family: 'Satisfy', cursive; font-size: 30px;}
+
+
+.banner-right img{height: 400px; width: 350px; position: absolute; top: 62px; left: 794px; border-radius: 20px; box-shadow: 0px 0 40px rgba(0, 0, 0, 0.4);}
+
+
+
+
+
